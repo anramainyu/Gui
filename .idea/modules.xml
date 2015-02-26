@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Gui.iml" filepath="$PROJECT_DIR$/Gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gui2/gui2.iml" filepath="$PROJECT_DIR$/gui2/gui2.iml" />
     </modules>
   </component>
 </project>
